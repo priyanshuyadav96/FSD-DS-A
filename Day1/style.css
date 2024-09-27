@@ -1,3 +1,14 @@
 body{
-    background-color: hotpink;
+    background-color: #00a957;
+}
+table{
+    background-color: rgb(243, 239, 10);
+    border-radius: 5px;
+    border-color: rgb(147, 211, 8);
+    border-style:dashed;
+}
+h1{
+    background-color: beige;
+    color: blueviolet;
+    text-align: center;
 }
