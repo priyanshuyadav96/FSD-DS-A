@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(35, 35, 35);
+    text-align: center;
+  }
+  .count-app{
+    background-color: black;
+    color:white;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 30px;
+    height: 500px;
+  }
+  .count-btn{
+    display: flex;
+    margin: auto;
+  }
+  h1{
+    font-size: 100px;
+  }
+  .i{
+    border: 2px solid rgb(255, 22, 22);
+  }
+  .d{
+    border: 2px solid rgb(0, 212, 249);
+  }
+  .r{
+    border: 2px solid rgb(14, 255, 78);
+  }
+  button{
+    padding: auto;
+    border-radius: 10px;
+    height: 40px;
+    /* width: 150px; */
+    /* margin-bottom: 20px; */
+    background-color: rgb(35, 35, 35);
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    
+  }
