@@ -8,7 +8,7 @@ const Register = ({regData}) => {
     const data = {name,email,password};
     const handleregister=(e)=>{
         e.preventDefault();
-        alert("Lord Of Cinder Fallen");
+        alert("Registration Successful");
         regData(data)
     }
   return (

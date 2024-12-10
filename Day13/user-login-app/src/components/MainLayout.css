@@ -1,0 +1,19 @@
+nav{
+    background-color: darkseagreen;
+}
+ul{
+    display: flex;
+    gap:20px;
+}
+ul li{
+    list-style-type: none;
+}
+li a{
+    text-decoration: none;
+    box-shadow: 10px 10px;
+}
+a:hover{
+    transform: scale(1.1);
+    background-color: teal;
+    color: white;
+}

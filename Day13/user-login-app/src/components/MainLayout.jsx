@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link,Outlet } from 'react-router-dom'
+import './MainLayout.css'
 const MainLayout = () => {
   return (
     <div>
@@ -11,11 +12,9 @@ const MainLayout = () => {
                 <li>
                     <Link to="/register">Register</Link>
                 </li>
-
             </ul>
         </nav>
         <Outlet/>
-        
     </div>
   )
 }
